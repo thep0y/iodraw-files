@@ -87,6 +87,9 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-25" value="客观障碍为主，磋商、圆桌会议、督促协同履职" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70.94" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-27" target="JTT_h0PcMo8Mp7khGxwd-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-27" value="消极拖延或主观不愿为，提起行政公益诉讼" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="214.06" y="640" width="120" height="60" as="geometry" />
         </mxCell>
@@ -126,8 +129,14 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-43" value="在行政程序中发现侵权事实时，&lt;div&gt;及时转入或同步提起民事公益诉讼&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="611.88" y="640" width="211.24" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-45" target="JTT_h0PcMo8Mp7khGxwd-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-45" value="全过程动态监督:履职反馈、执行跟踪、专家意见、社会参与" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="272.03" y="770" width="375.94" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
