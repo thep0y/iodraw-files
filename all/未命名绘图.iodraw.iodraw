@@ -111,8 +111,14 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-39" value="请求停止侵害、恢复原状、&lt;div&gt;赔偿修复费用、公开道歉&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="631.88" y="550" width="171.24" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-41" target="JTT_h0PcMo8Mp7khGxwd-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-41" value="线索移送、信息共享、&lt;div&gt;分步骤启动程序&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-43" target="JTT_h0PcMo8Mp7khGxwd-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-43" value="在行政程序中发现侵权事实时，&lt;div&gt;及时转入或同步提起民事公益诉讼&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="611.88" y="640" width="211.24" height="60" as="geometry" />
