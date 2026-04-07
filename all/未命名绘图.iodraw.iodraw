@@ -30,8 +30,8 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-5" value="刑事检察、行政执法&lt;div&gt;移送线索&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="150" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-7" value="检察机关调查核实：损害事实、风险状态、责任主体、主管行政机关" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="275" y="280" width="230" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-7" value="检察机关调查核实：&lt;div&gt;损害事实、风险状态、责任主体、主管行政机关&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="280" width="275" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
