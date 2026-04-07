@@ -84,8 +84,8 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-27" value="消极拖延或主观不愿为，提起行政公益诉讼" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-29" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-29" value="行政不作为与直接侵权并存" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="550" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
