@@ -13,7 +13,10 @@
           <mxGeometry x="210" y="60" width="360" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-1" value="检察机关主动发现或行政机关主动排查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="317.5" y="160" width="145" height="50" as="geometry" />
+          <mxGeometry x="317.5" y="150" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-2" value="检察机关主动发现或行政机关主动排查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327.5" y="160" width="145" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
