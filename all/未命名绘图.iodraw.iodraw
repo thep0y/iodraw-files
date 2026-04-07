@@ -135,8 +135,8 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-45" value="全过程动态监督:履职反馈、执行跟踪、专家意见、社会参与" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="272.03" y="770" width="375.94" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-51" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="910" width="120" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-51" value="文化遗产得到保护、修复与持续监管" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="910" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
