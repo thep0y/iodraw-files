@@ -66,13 +66,13 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-17" target="JTT_h0PcMo8Mp7khGxwd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行政公益诉讼路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-17" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;行政公益诉讼路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
           <mxGeometry x="87.62" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-20" target="JTT_h0PcMo8Mp7khGxwd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;制发检察建议&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-20" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;制发检察建议&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
           <mxGeometry x="87.62" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-23" target="JTT_h0PcMo8Mp7khGxwd-25">
