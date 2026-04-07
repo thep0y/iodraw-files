@@ -4,139 +4,142 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="JTT_h0PcMo8Mp7khGxwd-1" edge="1">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-55" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="25.939999999999998" y="40" width="771.1500000000001" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="JTT_h0PcMo8Mp7khGxwd-55" source="WIyWlLk6GJQsqaUBKTNV-3" target="JTT_h0PcMo8Mp7khGxwd-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="431.06" y="140" as="targetPoint" />
+            <mxPoint x="405.12" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="JTT_h0PcMo8Mp7khGxwd-2">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="WIyWlLk6GJQsqaUBKTNV-3" target="JTT_h0PcMo8Mp7khGxwd-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="JTT_h0PcMo8Mp7khGxwd-5">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="WIyWlLk6GJQsqaUBKTNV-3" target="JTT_h0PcMo8Mp7khGxwd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;文化遗产已受损、灭失，或存在重大损害风险&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=none;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="251.06" y="40" width="360" height="45" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;文化遗产已受损、灭失，或存在重大损害风险&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=none;container=0;" parent="JTT_h0PcMo8Mp7khGxwd-55" vertex="1">
+          <mxGeometry x="225.12" width="360" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-1" target="JTT_h0PcMo8Mp7khGxwd-7">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-1" target="JTT_h0PcMo8Mp7khGxwd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;检察机关主动发现&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;或行政机关主动排查&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359.81" y="130" width="142.5" height="50" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;检察机关主动发现&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;或行政机关主动排查&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="333.87" y="90" width="142.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;群众举报、社会组织&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;提供线索&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="611.06" y="130" width="148.94" height="50" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;群众举报、社会组织&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;提供线索&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="585.1199999999999" y="90" width="148.94" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;刑事检察、行政执法&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;移送线索&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="130" width="151.06" height="50" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;刑事检察、行政执法&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;移送线索&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="74.06" y="90" width="151.06" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-7" target="JTT_h0PcMo8Mp7khGxwd-9">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-7" target="JTT_h0PcMo8Mp7khGxwd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;检察机关调查核实：&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;损害事实、风险状态、责任主体、主管行政机关&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="276.78" y="220" width="308.56" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;检察机关调查核实：&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;损害事实、风险状态、责任主体、主管行政机关&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="250.83999999999997" y="180" width="308.56" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-11">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-15">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-17">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;根据责任结构选择路径：&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;①仅行政机关未依法履职 ②仅存在明确直接侵权主体 ③二者并存&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="212.84" y="320" width="436.44" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;根据责任结构选择路径：&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;①仅行政机关未依法履职 ②仅存在明确直接侵权主体 ③二者并存&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="186.9" y="280" width="436.44" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-11" target="JTT_h0PcMo8Mp7khGxwd-29">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-11" target="JTT_h0PcMo8Mp7khGxwd-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;协同推进路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="371.06" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;协同推进路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="345.12" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-15" target="JTT_h0PcMo8Mp7khGxwd-32">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-15" target="JTT_h0PcMo8Mp7khGxwd-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;民事公益诉讼路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="628.56" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;民事公益诉讼路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="602.6199999999999" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-17" target="JTT_h0PcMo8Mp7khGxwd-20">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-17" target="JTT_h0PcMo8Mp7khGxwd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行政公益诉讼路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="113.56" y="420" width="120" height="40" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行政公益诉讼路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="87.62" y="380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-20" target="JTT_h0PcMo8Mp7khGxwd-23">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-20" target="JTT_h0PcMo8Mp7khGxwd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;制发检察建议&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="113.56" y="480" width="120" height="40" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;制发检察建议&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="87.62" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-23" target="JTT_h0PcMo8Mp7khGxwd-25">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-23" target="JTT_h0PcMo8Mp7khGxwd-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-23" target="JTT_h0PcMo8Mp7khGxwd-27">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-23" target="JTT_h0PcMo8Mp7khGxwd-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;履职期内是否依法履职？&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（复合标准:行为+效果&lt;span style=&quot;background-color: initial;&quot;&gt;+客观障碍）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="25.939999999999998" y="540" width="295.12" height="80" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;履职期内是否依法履职？&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（复合标准:行为+效果&lt;span style=&quot;background-color: initial;&quot;&gt;+客观障碍）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry y="500" width="295.12" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-25" target="JTT_h0PcMo8Mp7khGxwd-45">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-25" target="JTT_h0PcMo8Mp7khGxwd-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;客观障碍为主，磋商、圆桌会议、督促协同履职&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="42" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;客观障碍为主，磋商、圆桌会议、督促协同履职&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="16.060000000000002" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-27" target="JTT_h0PcMo8Mp7khGxwd-45">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-27" target="JTT_h0PcMo8Mp7khGxwd-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;消极拖延或主观不愿为，提起行政公益诉讼&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185.12" y="640" width="120" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;消极拖延或主观不愿为，提起行政公益诉讼&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="159.18" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-29" target="JTT_h0PcMo8Mp7khGxwd-35">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-29" target="JTT_h0PcMo8Mp7khGxwd-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行政不作为与直接侵权并存&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="343.56" y="480" width="175" height="40" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行政不作为与直接侵权并存&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="317.62" y="440" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-32" target="JTT_h0PcMo8Mp7khGxwd-39">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-32" target="JTT_h0PcMo8Mp7khGxwd-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;存在明确直接侵权主体&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="609.1800000000001" y="480" width="158.75" height="40" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;存在明确直接侵权主体&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="583.24" y="440" width="158.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-35" target="JTT_h0PcMo8Mp7khGxwd-41">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-35" target="JTT_h0PcMo8Mp7khGxwd-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行政公益诉讼监督履职&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;+ 民事公益诉讼追究修复责任&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="336.06" y="550" width="190" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行政公益诉讼监督履职&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;+ 民事公益诉讼追究修复责任&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="310.12" y="510" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-39" target="JTT_h0PcMo8Mp7khGxwd-43">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-39" target="JTT_h0PcMo8Mp7khGxwd-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;请求停止侵害、恢复原状、&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;赔偿修复费用、公开道歉&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="602.94" y="550" width="171.24" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;请求停止侵害、恢复原状、&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;赔偿修复费用、公开道歉&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="577" y="510" width="171.24" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-41" target="JTT_h0PcMo8Mp7khGxwd-45">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-41" target="JTT_h0PcMo8Mp7khGxwd-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;线索移送、信息共享、&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;分步骤启动程序&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="351.06" y="640" width="160" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;线索移送、信息共享、&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;分步骤启动程序&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="325.12" y="600" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-43" target="JTT_h0PcMo8Mp7khGxwd-45">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-43" target="JTT_h0PcMo8Mp7khGxwd-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;在行政程序中发现侵权事实时，&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;及时转入或同步提起民事公益诉讼&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580.0300000000001" y="640" width="217.06" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;在行政程序中发现侵权事实时，&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;及时转入或同步提起民事公益诉讼&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="554.0900000000001" y="600" width="217.06" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-45" target="JTT_h0PcMo8Mp7khGxwd-51">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-45" target="JTT_h0PcMo8Mp7khGxwd-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;全过程动态监督:履职反馈、执行跟踪、专家意见、社会参与&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="226.55" y="760" width="409.03" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;全过程动态监督:履职反馈、执行跟踪、专家意见、社会参与&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="200.61" y="720" width="409.03" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文化遗产得到保护、修复与持续监管&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="880" width="261.06" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;文化遗产得到保护、修复与持续监管&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+          <mxGeometry x="274.6" y="830" width="261.06" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
