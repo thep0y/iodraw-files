@@ -6,7 +6,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="JTT_h0PcMo8Mp7khGxwd-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="160" as="targetPoint" />
+            <mxPoint x="460" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="JTT_h0PcMo8Mp7khGxwd-2">
@@ -16,25 +16,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font face=&quot;宋体&quot;&gt;文化遗产已受损、灭失，或存在重大损害风险&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="60" width="360" height="45" as="geometry" />
+          <mxGeometry x="280" y="40" width="360" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-1" target="JTT_h0PcMo8Mp7khGxwd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-1" value="检察机关主动发现&lt;div&gt;或行政机关主动排查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="318.75" y="150" width="142.5" height="50" as="geometry" />
+          <mxGeometry x="388.75" y="130" width="142.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-2" value="群众举报、社会组织&lt;div&gt;提供线索&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="150" width="125" height="50" as="geometry" />
+          <mxGeometry x="640" y="130" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-5" value="刑事检察、行政执法&lt;div&gt;移送线索&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;flipH=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="85" y="150" width="125" height="50" as="geometry" />
+          <mxGeometry x="155" y="130" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-7" target="JTT_h0PcMo8Mp7khGxwd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-7" value="检察机关调查核实：&lt;div&gt;损害事实、风险状态、责任主体、主管行政机关&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="252.5" y="240" width="275" height="60" as="geometry" />
+          <mxGeometry x="322.5" y="220" width="275" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-11">
           <mxGeometry relative="1" as="geometry" />
@@ -46,31 +46,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-9" value="根据责任结构选择路径：&lt;div&gt;①仅行政机关未依法履职 ②仅存在明确直接侵权主体 ③二者并存&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="192.5" y="340" width="395" height="60" as="geometry" />
+          <mxGeometry x="262.5" y="320" width="395" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-11" target="JTT_h0PcMo8Mp7khGxwd-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-11" value="协同推进路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-15" target="JTT_h0PcMo8Mp7khGxwd-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-15" value="民事公益诉讼路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="527.5" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="597.5" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-17" target="JTT_h0PcMo8Mp7khGxwd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-17" value="行政公益诉讼路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="132.5" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="202.5" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-20" target="JTT_h0PcMo8Mp7khGxwd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-20" value="制发检察建议" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="132.5" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="202.5" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-23" target="JTT_h0PcMo8Mp7khGxwd-25">
           <mxGeometry relative="1" as="geometry" />
@@ -79,19 +79,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-23" value="履职期内是否依法履职？&lt;div&gt;（复合标准:行为+效果&lt;span style=&quot;background-color: initial;&quot;&gt;+客观障碍）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60.940000000000005" y="560" width="263.12" height="80" as="geometry" />
+          <mxGeometry x="130.94" y="540" width="263.12" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-25" value="客观障碍为主，磋商、圆桌会议、督促协同履职" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-27" value="消极拖延或主观不愿为，提起行政公益诉讼" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-29" value="行政不作为与直接侵权并存" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="302.5" y="500" width="175" height="40" as="geometry" />
+          <mxGeometry x="372.5" y="480" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-32" value="存在明确直接侵权主体" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="521.25" y="500" width="132.5" height="40" as="geometry" />
+          <mxGeometry x="578.13" y="480" width="158.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
