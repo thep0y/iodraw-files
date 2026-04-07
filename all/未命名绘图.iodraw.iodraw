@@ -54,6 +54,9 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-11" value="协同推进路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-15" target="JTT_h0PcMo8Mp7khGxwd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-15" value="民事公益诉讼路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="527.5" y="440" width="120" height="40" as="geometry" />
         </mxCell>
@@ -85,7 +88,10 @@
           <mxGeometry x="220" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-29" value="行政不作为与直接侵权并存" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="500" width="175" height="40" as="geometry" />
+          <mxGeometry x="302.5" y="500" width="175" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-32" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="527.5" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
