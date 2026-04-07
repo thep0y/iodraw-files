@@ -45,8 +45,8 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-9" value="根据责任结构选择路径：&lt;div&gt;①仅行政机关未依法履职 ②仅存在明确直接侵权主体 ③二者并存&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="233.56" y="320" width="395" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;根据责任结构选择路径：&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;①仅行政机关未依法履职 ②仅存在明确直接侵权主体 ③二者并存&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="233.56" y="320" width="436.44" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-11" target="JTT_h0PcMo8Mp7khGxwd-29">
           <mxGeometry relative="1" as="geometry" />
