@@ -33,8 +33,8 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-7" target="JTT_h0PcMo8Mp7khGxwd-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-7" value="检察机关调查核实：&lt;div&gt;损害事实、风险状态、责任主体、主管行政机关&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="293.56" y="220" width="275" height="60" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;检察机关调查核实：&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;损害事实、风险状态、责任主体、主管行政机关&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="276.78" y="220" width="308.56" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-9" target="JTT_h0PcMo8Mp7khGxwd-11">
           <mxGeometry relative="1" as="geometry" />
