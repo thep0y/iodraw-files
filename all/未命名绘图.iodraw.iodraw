@@ -54,7 +54,7 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-11" target="JTT_h0PcMo8Mp7khGxwd-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;协同推进路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-11" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;协同推进路径&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;container=0;" vertex="1" parent="JTT_h0PcMo8Mp7khGxwd-55">
           <mxGeometry x="345.12" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JTT_h0PcMo8Mp7khGxwd-55" source="JTT_h0PcMo8Mp7khGxwd-15" target="JTT_h0PcMo8Mp7khGxwd-32">
