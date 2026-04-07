@@ -54,11 +54,14 @@
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-15" value="民事公益诉讼路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="587.5" y="440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-17" target="JTT_h0PcMo8Mp7khGxwd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-17" value="行政公益诉讼路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="72.5" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-19" value="行政公益诉讼路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="82.5" y="450" width="120" height="40" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-20" value="" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="72.5" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
