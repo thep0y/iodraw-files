@@ -64,25 +64,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-17" value="行政公益诉讼路径" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="202.5" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="142.5" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-20" target="JTT_h0PcMo8Mp7khGxwd-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-20" value="制发检察建议" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="202.5" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="142.5" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-23" target="JTT_h0PcMo8Mp7khGxwd-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JTT_h0PcMo8Mp7khGxwd-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-23" target="JTT_h0PcMo8Mp7khGxwd-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JTT_h0PcMo8Mp7khGxwd-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="JTT_h0PcMo8Mp7khGxwd-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-23" value="履职期内是否依法履职？&lt;div&gt;（复合标准:行为+效果&lt;span style=&quot;background-color: initial;&quot;&gt;+客观障碍）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130.94" y="540" width="263.12" height="80" as="geometry" />
+          <mxGeometry x="70.94" y="540" width="263.12" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-25" value="客观障碍为主，磋商、圆桌会议、督促协同履职" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JTT_h0PcMo8Mp7khGxwd-27" value="消极拖延或主观不愿为，提起行政公益诉讼" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
